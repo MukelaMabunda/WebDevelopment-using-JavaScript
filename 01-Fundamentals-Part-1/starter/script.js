@@ -8,4 +8,3 @@ let johnBMI = johnMass / johnHeight ** 2;
 
 let markHigherBMI = markBMI > johnBMI;
 
-console.log(markHigherBMI);
