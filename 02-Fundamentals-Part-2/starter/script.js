@@ -6,4 +6,6 @@ const calcAverage = (score1,score2,score3) => {
     return ((score1 + score2 + score3) / 3);
 }
 
-console.log(calcAverage(1,1,1));
+const dolphinsAverage=(calcAverage(96,108,89));
+const koalasAverage=(calcAverage(88,91,110));
+
